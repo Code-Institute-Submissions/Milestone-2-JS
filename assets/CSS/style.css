@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.callout-bg {
+    background: url("/assets/images/Whiskey.jpg") no-repeat -30% 60%;
+    background-color: #09070a;
+}
+
+.container-fluid {
+    padding: 3vh;
+    min-height: 35vh;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.text-stroke {
+    color: #fff;
+    -webkit-text-stroke: 1px #000;
+    font-weight: bold;
+}
+
+.divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #000000;
+}
+
+.divider-alt {
+    background-color: #fff;
+}
+
+.btn {
+    border-radius: 25px;
+}
+
+div#map {min-height: 360px;}

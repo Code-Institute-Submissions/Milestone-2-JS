@@ -3,7 +3,7 @@ body {
 }
 
 .callout-bg {
-    background: url("/assets/images/Whiskey.jpg") no-repeat -30% 60%;
+    background: url("assets/images/Whiskey.jpg") no-repeat -30% 60%;
     background-color: #09070a;
 }
 

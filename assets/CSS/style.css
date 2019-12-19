@@ -37,4 +37,7 @@ body {
     border-radius: 25px;
 }
 
-div#map {min-height: 360px;}
+div#map {
+    min-height: 35vh;
+    border-radius: 25px;
+}

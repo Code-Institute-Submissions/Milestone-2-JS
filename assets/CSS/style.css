@@ -3,8 +3,8 @@ body {
 }
 
 .callout-bg {
-    background: url("assets/images/Whiskey.jpg") no-repeat -30% 60%;
-    background-color: #09070a;
+    background: url("/assets/images/Whiskey.jpg") no-repeat -30% 60%;
+    background-color: #0d0b10;
 }
 
 .container-fluid {
@@ -34,6 +34,6 @@ body {
 }
 
 div#map {
-    min-height: 35vh;
+    min-height: 70vh;
     border-radius: 25px;
 }

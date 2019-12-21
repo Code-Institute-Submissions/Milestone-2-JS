@@ -72,10 +72,19 @@
 				to featured content or information.</p>
 			<hr class="divider">
 			<p>Click the button below to show on the map the best Whiskey Bars in Dublin.</p>
-			<a class="btn btn-primary btn-lg" href="#map" role="button">Whiskey Bars</a>
+			<a id="barsBtn" class="btn btn-primary btn-lg" href="#map" role="button">Whiskey Bars</a>
 		</div>
 
 	</div>
+
+    <script>
+    document.getElementById("barsBtn").onclick = function() {myFunction()};
+
+function myFunction() {
+  document.getElementById("barsBtn").click = "YOU CLICKED ME!";
+}
+</script>
+
 
 	<!--Callout Museum-->
 

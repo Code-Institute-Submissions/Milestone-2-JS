@@ -28,17 +28,29 @@ let map;
                     content: 'Irish Whiskey Museum'
                 },
                 {
-                    name: 'two',
-                    tour: 'gothic',
-                    latlng: { lat: 41.3840, lng: 2.1762 },
-                    content: 'annoying'
+                    name: 'three',
+                    tour: 'jameson',
+                    latlng: { lat: 53.348378, lng: -6.277362 },
+                    content: 'Jameson Distillery'
+                },
+                {
+                    name: 'three',
+                    tour: 'pearse_lyons',
+                    latlng: { lat: 53.343684, lng: -6.289597 },
+                    content: 'Pearse Lyons Distillery'
+                },
+                {
+                    name: 'three',
+                    tour: 'teeling',
+                    latlng: { lat: 53.337768, lng: -6.277125 },
+                    content: 'Teeling Distillery'
                 }
             ];
 
 
             function initMap() {
             var map = new google.maps.Map(document.getElementById("map"), {
-                zoom: 13,
+                zoom: 14,
                 center: {
                     lat: 53.350234,
                     lng: -6.260183

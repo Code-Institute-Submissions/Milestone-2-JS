@@ -3,7 +3,7 @@ body {
 }
 
 .callout-bg {
-    background: url("/assets/images/Whiskey.jpg") no-repeat -30% 60%;
+    background: url("assets/images/Whiskey.jpg") no-repeat -30% 60%;
     background-color: #0d0b10;
 }
 
@@ -36,8 +36,4 @@ body {
 div#map {
     min-height: 70vh;
     border-radius: 25px;
-}
-
-.123{
-    color: white;
 }

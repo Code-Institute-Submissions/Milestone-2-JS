@@ -3,7 +3,7 @@ body {
 }
 
 .callout-bg {
-    background: url("/media/bg.jpg");
+    background: url("../bg.jpg");
     background-position: -30% 60%;
     background-repeat: no-repeat;
     background-color: #0d0b10;

@@ -3,7 +3,9 @@ body {
 }
 
 .callout-bg {
-    background: url("file:///workspace/Milestone-2-JS/assets/Background/Whiskey.jpg") no-repeat -30% 60%;
+    background: url("../background/Whiskey.jpg");
+    background-position: -30% 60%;
+    background-repeat: no-repeat;
     background-color: #0d0b10;
 }
 

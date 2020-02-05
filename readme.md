@@ -1,4 +1,4 @@
-# Acid Reign's website
+# Whiskey in Dublin
 
 Interactive Frontend Development - Code Institute
 
